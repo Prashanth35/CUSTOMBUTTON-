@@ -1,0 +1,11 @@
+    .mycustButton {
+        display: inline-block; 
+       border: 1px solid red;
+        border-radius: 25px;
+         text-align:center;
+         padding:10px;
+        background: linear-gradient(red, yellow);
+        color:white;
+        
+        
+      }

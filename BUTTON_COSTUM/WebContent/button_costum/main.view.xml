@@ -1,0 +1,8 @@
+<core:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
+		controllerName="button_costum.main" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:ht="control">
+	<Page title="Title">
+		<content>
+	<ht:custButton text="hoverme" press="onclick"/>
+		</content>
+	</Page>
+</core:View>
